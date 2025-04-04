@@ -1,4 +1,4 @@
 
-I current study physics and philosophy at the Univeristy of Chicgo. 
+I study physics and philosophy at the Univeristy of Chicago. 
 
-aadarshagarwal.com 
+[aadarshagarwal.com](https://aadarshagarwal.com)
