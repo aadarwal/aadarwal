@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <!--
-**aadarwal/aadarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I current study physics and philosophy at the Univeristy of Chicgo. 
+aadarshagarwal.com 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
